@@ -1,4 +1,4 @@
-# Candy
+# Candy 3D
 This is a 3D version of a candy covered with sugar.
 
 <h2> Goals </h2>
